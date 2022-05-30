@@ -1,0 +1,5 @@
+Electrode 0:
+2 neurons (clusters)
+
+Electrode 1:
+2 neurons (clusters)
